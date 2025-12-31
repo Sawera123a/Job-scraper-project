@@ -11,9 +11,9 @@ Indeed.com (public & free) – easy to access and has most 1L summer law listing
 
 ## 1L Definition
 
-Job ko 1L mana gaya agar:
-Title ya description me "1L" ya "first-year law student" likha ho
-Ya summer law internship ho
+A job is considered a 1L position 
+if the job title or description explicitly mentions “1L” or “first-year law student,” or 
+if it is listed as a summer law internship.
 
 ## How to Run
 pip install fastapi uvicorn seleniumbase beautifulsoup4
